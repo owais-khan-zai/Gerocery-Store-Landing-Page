@@ -1,12 +1,88 @@
-# React + Vite
+# 🛒 Grocery Store Landing Page  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<!-- 🔥 Project Preview Image -->
+<img width="1697" height="825" alt="gro1" src="https://github.com/user-attachments/assets/5be15a0e-73c6-4418-9fc2-3920ca596e1c" />
 
-Currently, two official plugins are available:
+A feature-rich **grocery store landing page clone** built with **React, Tailwind CSS, and GSAP**.  
+This project showcases a **complex UI layout** with interactive elements, smooth animations, and a modern shopping experience feel.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Complex Header with Tabs**  
+  - Multiple navigation tabs with **hover animations**.  
+  - Each tab have different content.  
+  - Fully responsive across devices.  
+
+- **Interactive Hover Animations**  
+  - Buttons, links, and sections animate on hover.  
+  - Enhances overall user engagement and interactivity.  
+
+- **Product Slider**  
+  - A **responsive product carousel/slider** to showcase grocery items.  
+
+  <!-- 🖼️ Product Slider Preview -->
+<img width="1622" height="797" alt="gro2" src="https://github.com/user-attachments/assets/228c7fd7-b221-4509-8812-582995e9824c" />
+
+- **Product Showcasing**  
+  - Products displayed like **real store apps**, with clean visuals and organized sections.  
+  - Designed for a modern **shopping-like experience**.  
+
+- **Special Offers Section**  
+  - Highlighted deals and discounts placed on products.  
+
+  <!-- 🖼️ Offers Preview Image -->
+<img width="1583" height="812" alt="gro3" src="https://github.com/user-attachments/assets/c5884bf6-0bb8-464f-9cc3-f60f789fc8a8" />
+
+- **Smooth Animations**  
+  - **GSAP** adds scroll-triggered and entrance animations.  
+  - Products and sections fade/slide beautifully into view.  
+
+- **Responsive Design**  
+  - Adapts seamlessly to desktop, tablet, and mobile screens.  
+
+---
+
+## 🛠️ Tech Stack  
+
+- **React.js** — UI framework  
+- **Tailwind CSS** — styling & responsive layout  
+- **GSAP** — scroll + hover animations  
+
+---
+
+## 📂 Usage — Setup & Run Locally  
+
+1. Clone the repo:
+
+    ```bash
+    git clone https://github.com/your-username/Grocery-Store-Landing-Page.git
+    cd Grocery-Store-Landing-Page
+    ```
+
+2. Install dependencies:
+
+    ```bash
+    npm install
+    ```
+
+3. Start the development server:
+
+    ```bash
+    npm run dev
+    ```
+
+4. Open [http://localhost:5173](http://localhost:5173) (or the port shown in your terminal).  
+
+---
+
+## 📬 Contact  
+
+For questions, feedback, or collaboration:  
+
+- **Email**: khanowaiszai@gmail.com
+
+---
+
+⭐ Thanks for checking out this project!  
